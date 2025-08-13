@@ -68,7 +68,7 @@ In the design, the large model will identify the following abnormalities based o
 
 ### Contribution Directions
 
-
+*   If you need to contact us, please raise an issue directly
 
 *   Firmware Development: Participate in the development and optimization of FPGA firmware, improve dynamic reconstruction efficiency, and perfect the dual-zone verification mechanism.
 
