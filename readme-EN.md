@@ -80,7 +80,7 @@ In the design, the large model will identify the following abnormalities based o
 ### Participation Methods (To Be Clarified)
 
 
-*   If you need to contact us, please raise an issue directly
+*   If you need to contact us, please do so directly through "Raise an issue
 
 *   After the project is initialized, issues can be submitted to provide feedback, and code or documents can be contributed through Pull Requests.
 
